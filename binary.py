@@ -16,10 +16,11 @@ my_list = [1, 3, 5, 7, 9]
 
 print(binary_search(my_list, 5))
 
+# ---------------------How it works----------------------------------
 # item == 5
 # listi = [1, 3, 5, 7, 9]
 # low == 0
 # high == 4
 # while first loop:
-# middle = int((0+4)/2)
-#
+# middle = int((0+4)/2) == 2
+# middle == attempt
