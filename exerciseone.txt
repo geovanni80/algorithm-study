@@ -1,0 +1,6 @@
+1.1 Answer: Log² 128 = 7
+1.2 Answer: Log² 256 = 8
+1.3 Answer: O(log n)
+1.4 Answer: O(n)
+1.5 Answer: O(n)
+1.6 Answer: O(n)
