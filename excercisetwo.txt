@@ -1,5 +1,0 @@
-2.1 Answer: Linked list
-2.2 Answer: Linked list
-2.3 Answer: Array
-2.4 Answer: The disadvantage of an array is that its elements must be contiguous in memory. If an array has 4 items in a 5-item capacity, adding two more items forces the operating system to relocate the entire array to a larger memory block.
-Furthermore, to maintain order for binary search, the system needs to find the correct position for the new item and shift the remaining items to the right.
