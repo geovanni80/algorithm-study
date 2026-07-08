@@ -1,0 +1,4 @@
+3.1 Answer -> Print "Hello, Maggie!"
+Print "What's up, Maggie?"
+3.2 Answer -> The call stack keeps growing until it runs out of memory, 
+causing a stack overflow.
